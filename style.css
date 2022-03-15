@@ -1,6 +1,11 @@
 body {
 	color: #F1F1F1;
+    background-attachment: fixed;
 	background-color: #66023C;
+	background-image: url('rsc/constellation.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 	width: 66vw;
 	margin: 0 auto;
 	margin-bottom: 30px;
