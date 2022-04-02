@@ -2,7 +2,7 @@
 
 ## Overview
 
-A web homepage for Argus Operators built with basic HTML and CSS
+A web homepage for Argus Operators built with basic HTML, CSS and a hint of JS
 
 ## Usage
 
