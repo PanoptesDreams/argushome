@@ -1,0 +1,22 @@
+{
+  "name": "argushome",
+  "version": "1.0.0",
+  "description": "A homepage for Argus Operators",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/panoptesdreams/argushome",
+  "keywords": [
+    "Electron",
+    "Desktop",
+    "Homepage",
+    "Argus",
+    "Home"
+  ],
+  "author": "Panoptes",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
