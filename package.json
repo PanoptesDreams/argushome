@@ -17,6 +17,6 @@
   "author": "Panoptes",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^18.0.3"
+    "electron": "^18.0.4"
   }
 }
